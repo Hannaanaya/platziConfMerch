@@ -4,9 +4,10 @@ Venta de productos de platzi
 Este proyecto está hecho con React y redux. 
 Para descargar y su contenido, usa el siguiente comando...
 
-#git clone url (puedes encontrar el enlace en Code)
+# git clone url (puedes encontrar el enlace en Code)
 
 Para abrirlo, solo utiliza:
-#npm run start
+
+# npm run start
 
 Finalizado.
